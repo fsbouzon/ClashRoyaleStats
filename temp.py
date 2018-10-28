@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Editor de Spyder  
-
-Este es un archivo temporal
-"""
-
 import requests
 import re
 import csv
