@@ -16,5 +16,5 @@ La actividad ha sido realizada de manera individual por **Francisco De Santos Bo
 
 ## Recursos
 
-Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter
-Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
+1.	Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter
+2.	Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
