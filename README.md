@@ -1,4 +1,4 @@
-# Práctica 1: Web scraping
+# Práctica 1: ClashRoyaleStats con Web Scraping
 
 ## Descripción
 
@@ -13,3 +13,8 @@ La actividad ha sido realizada de manera individual por **Francisco De Santos Bo
 * **src/**: Directorio en donde se encuentra el prgrama de ejecución para realizar el scraping.
 * **csv/**: Directorio con dos datasets generados. Uno de ellos completo, con toda la información de los 200 clanes extraídos. El segundo dataset es uno más pequeño con los datos de un solo clan.
 * **pdf/**: Directorio con la documentación de la práctica.
+
+## Recursos
+
+Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter
+Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
