@@ -11,5 +11,5 @@ La actividad ha sido realizada de manera individual por **Francisco De Santos Bo
 ## Directorios
 
 * **src/**: Directorio en donde se encuentra el prgrama de ejecución para realizar el scraping.
-* **csv/clash_royale_dataset.csv**: Directorio con dos datasets generados. Uno de ellos completo, con toda la información de los 200 clanes extraídos. El segundo dataset es uno más pequeño con los datos de un solo clan.
+* **csv/**: Directorio con dos datasets generados. Uno de ellos completo, con toda la información de los 200 clanes extraídos. El segundo dataset es uno más pequeño con los datos de un solo clan.
 * **pdf/**: Directorio con la documentación de la práctica.
